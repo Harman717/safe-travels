@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/safe-travels/static/css/main.b09133b0.css",
+    "main.js": "/safe-travels/static/js/main.fcff3fab.js",
+    "index.html": "/safe-travels/index.html",
+    "main.b09133b0.css.map": "/safe-travels/static/css/main.b09133b0.css.map",
+    "main.fcff3fab.js.map": "/safe-travels/static/js/main.fcff3fab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09133b0.css",
+    "static/js/main.fcff3fab.js"
+  ]
+}
